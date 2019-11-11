@@ -1,0 +1,7 @@
+C:\Users\Kikaman\source\repos\ILUHA_Э\Mathematics\Mathematics\bin\Debug\Mathematics.exe.config
+C:\Users\Kikaman\source\repos\ILUHA_Э\Mathematics\Mathematics\bin\Debug\Mathematics.exe
+C:\Users\Kikaman\source\repos\ILUHA_Э\Mathematics\Mathematics\bin\Debug\Mathematics.pdb
+C:\Users\Kikaman\source\repos\ILUHA_Э\Mathematics\Mathematics\obj\Debug\Mathematics.csprojAssemblyReference.cache
+C:\Users\Kikaman\source\repos\ILUHA_Э\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\source\repos\ILUHA_Э\Mathematics\Mathematics\obj\Debug\Mathematics.exe
+C:\Users\Kikaman\source\repos\ILUHA_Э\Mathematics\Mathematics\obj\Debug\Mathematics.pdb

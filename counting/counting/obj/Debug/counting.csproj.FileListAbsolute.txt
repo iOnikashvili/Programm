@@ -1,0 +1,7 @@
+C:\Users\Kikaman\source\repos\counting\counting\bin\Debug\counting.exe.config
+C:\Users\Kikaman\source\repos\counting\counting\bin\Debug\counting.exe
+C:\Users\Kikaman\source\repos\counting\counting\bin\Debug\counting.pdb
+C:\Users\Kikaman\source\repos\counting\counting\obj\Debug\counting.csprojAssemblyReference.cache
+C:\Users\Kikaman\source\repos\counting\counting\obj\Debug\counting.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\source\repos\counting\counting\obj\Debug\counting.exe
+C:\Users\Kikaman\source\repos\counting\counting\obj\Debug\counting.pdb

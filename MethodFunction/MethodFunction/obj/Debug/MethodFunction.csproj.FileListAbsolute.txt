@@ -1,0 +1,7 @@
+C:\Users\Kikaman\source\repos\ILUHA_Э\MethodFunction\MethodFunction\bin\Debug\MethodFunction.exe.config
+C:\Users\Kikaman\source\repos\ILUHA_Э\MethodFunction\MethodFunction\bin\Debug\MethodFunction.exe
+C:\Users\Kikaman\source\repos\ILUHA_Э\MethodFunction\MethodFunction\bin\Debug\MethodFunction.pdb
+C:\Users\Kikaman\source\repos\ILUHA_Э\MethodFunction\MethodFunction\obj\Debug\MethodFunction.csprojAssemblyReference.cache
+C:\Users\Kikaman\source\repos\ILUHA_Э\MethodFunction\MethodFunction\obj\Debug\MethodFunction.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\source\repos\ILUHA_Э\MethodFunction\MethodFunction\obj\Debug\MethodFunction.exe
+C:\Users\Kikaman\source\repos\ILUHA_Э\MethodFunction\MethodFunction\obj\Debug\MethodFunction.pdb

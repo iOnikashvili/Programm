@@ -1,0 +1,35 @@
+C:\Users\Kikaman\source\repos\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe.config
+C:\Users\Kikaman\source\repos\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe
+C:\Users\Kikaman\source\repos\Homework2.3\Homework2.3\bin\Debug\Homework2.3.pdb
+C:\Users\Kikaman\source\repos\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csprojAssemblyReference.cache
+C:\Users\Kikaman\source\repos\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\source\repos\Homework2.3\Homework2.3\obj\Debug\Homework2.3.exe
+C:\Users\Kikaman\source\repos\Homework2.3\Homework2.3\obj\Debug\Homework2.3.pdb
+E:\VSproj\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csprojAssemblyReference.cache
+E:\VSproj\Homework2.3\Homework2.3\obj\Debug\Homework2.3.exe
+E:\VSproj\Homework2.3\Homework2.3\obj\Debug\Homework2.3.pdb
+C:\Users\Kikaman\Desktop\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe.config
+C:\Users\Kikaman\Desktop\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe
+C:\Users\Kikaman\Desktop\Homework2.3\Homework2.3\bin\Debug\Homework2.3.pdb
+C:\Users\Kikaman\Desktop\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csprojAssemblyReference.cache
+C:\Users\Kikaman\Desktop\Homework2.3\Homework2.3\obj\Debug\Homework2.3.exe
+C:\Users\Kikaman\Desktop\Homework2.3\Homework2.3\obj\Debug\Homework2.3.pdb
+C:\Users\Kikaman\project\Chess\Homework2.3\bin\Debug\Homework2.3.exe.config
+C:\Users\Kikaman\project\Chess\Homework2.3\bin\Debug\Homework2.3.exe
+C:\Users\Kikaman\project\Chess\Homework2.3\bin\Debug\Homework2.3.pdb
+C:\Users\Kikaman\project\Chess\Homework2.3\obj\Debug\Homework2.3.csprojAssemblyReference.cache
+C:\Users\Kikaman\project\Chess\Homework2.3\obj\Debug\Homework2.3.exe
+C:\Users\Kikaman\project\Chess\Homework2.3\obj\Debug\Homework2.3.pdb
+C:\Users\Kikaman\Desktop\Chess\Homework2.3\bin\Debug\Homework2.3.exe.config
+C:\Users\Kikaman\Desktop\Chess\Homework2.3\bin\Debug\Homework2.3.exe
+C:\Users\Kikaman\Desktop\Chess\Homework2.3\bin\Debug\Homework2.3.pdb
+C:\Users\Kikaman\Desktop\Chess\Homework2.3\obj\Debug\Homework2.3.csprojAssemblyReference.cache
+C:\Users\Kikaman\Desktop\Chess\Homework2.3\obj\Debug\Homework2.3.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\Desktop\Chess\Homework2.3\obj\Debug\Homework2.3.exe
+C:\Users\Kikaman\Desktop\Chess\Homework2.3\obj\Debug\Homework2.3.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Chess(2)\Homework2.3\bin\Debug\Homework2.3.exe.config
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Chess(2)\Homework2.3\bin\Debug\Homework2.3.exe
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Chess(2)\Homework2.3\bin\Debug\Homework2.3.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Chess(2)\Homework2.3\obj\Debug\Homework2.3.csprojAssemblyReference.cache
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Chess(2)\Homework2.3\obj\Debug\Homework2.3.exe
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Chess(2)\Homework2.3\obj\Debug\Homework2.3.pdb

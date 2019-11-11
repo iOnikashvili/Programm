@@ -1,0 +1,7 @@
+C:\Users\Kikaman\source\repos\LogicalOperations2\LogicalOperations2\bin\Debug\LogicalOperations2.exe.config
+C:\Users\Kikaman\source\repos\LogicalOperations2\LogicalOperations2\bin\Debug\LogicalOperations2.exe
+C:\Users\Kikaman\source\repos\LogicalOperations2\LogicalOperations2\bin\Debug\LogicalOperations2.pdb
+C:\Users\Kikaman\source\repos\LogicalOperations2\LogicalOperations2\obj\Debug\LogicalOperations2.csprojAssemblyReference.cache
+C:\Users\Kikaman\source\repos\LogicalOperations2\LogicalOperations2\obj\Debug\LogicalOperations2.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\source\repos\LogicalOperations2\LogicalOperations2\obj\Debug\LogicalOperations2.exe
+C:\Users\Kikaman\source\repos\LogicalOperations2\LogicalOperations2\obj\Debug\LogicalOperations2.pdb

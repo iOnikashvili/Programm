@@ -1,0 +1,7 @@
+C:\Users\Kikaman\source\repos\ILUHA_Э\LogicalOperations1\LogicalOperations1\bin\Debug\LogicalOperations1.exe.config
+C:\Users\Kikaman\source\repos\ILUHA_Э\LogicalOperations1\LogicalOperations1\bin\Debug\LogicalOperations1.exe
+C:\Users\Kikaman\source\repos\ILUHA_Э\LogicalOperations1\LogicalOperations1\bin\Debug\LogicalOperations1.pdb
+C:\Users\Kikaman\source\repos\ILUHA_Э\LogicalOperations1\LogicalOperations1\obj\Debug\LogicalOperations1.csprojAssemblyReference.cache
+C:\Users\Kikaman\source\repos\ILUHA_Э\LogicalOperations1\LogicalOperations1\obj\Debug\LogicalOperations1.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\source\repos\ILUHA_Э\LogicalOperations1\LogicalOperations1\obj\Debug\LogicalOperations1.exe
+C:\Users\Kikaman\source\repos\ILUHA_Э\LogicalOperations1\LogicalOperations1\obj\Debug\LogicalOperations1.pdb
