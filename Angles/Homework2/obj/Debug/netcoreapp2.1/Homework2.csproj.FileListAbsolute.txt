@@ -9,3 +9,13 @@ C:\Users\Kikaman\source\repos\Homework2\Homework2\bin\Debug\netcoreapp2.1\Homewo
 C:\Users\Kikaman\source\repos\Homework2\Homework2\bin\Debug\netcoreapp2.1\Homework2.pdb
 C:\Users\Kikaman\source\repos\Homework2\Homework2\obj\Debug\netcoreapp2.1\Homework2.dll
 C:\Users\Kikaman\source\repos\Homework2\Homework2\obj\Debug\netcoreapp2.1\Homework2.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\bin\Debug\netcoreapp2.1\Homework2.deps.json
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\bin\Debug\netcoreapp2.1\Homework2.runtimeconfig.json
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\bin\Debug\netcoreapp2.1\Homework2.runtimeconfig.dev.json
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\bin\Debug\netcoreapp2.1\Homework2.dll
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\bin\Debug\netcoreapp2.1\Homework2.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\obj\Debug\netcoreapp2.1\Homework2.csprojAssemblyReference.cache
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\obj\Debug\netcoreapp2.1\Homework2.AssemblyInfoInputs.cache
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\obj\Debug\netcoreapp2.1\Homework2.AssemblyInfo.cs
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\obj\Debug\netcoreapp2.1\Homework2.dll
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Angles\Homework2\obj\Debug\netcoreapp2.1\Homework2.pdb
