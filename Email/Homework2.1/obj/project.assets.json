@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kikaman\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Onika\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kikaman\\Desktop\\Homework2.1\\Homework2.1\\Homework2.1.csproj",
+      "projectUniqueName": "C:\\Users\\Onika\\OneDrive\\Рабочий стол\\ILUHA_Э\\Email\\Homework2.1\\Homework2.1.csproj",
       "projectName": "Homework2.1",
-      "projectPath": "C:\\Users\\Kikaman\\Desktop\\Homework2.1\\Homework2.1\\Homework2.1.csproj",
-      "packagesPath": "C:\\Users\\Kikaman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kikaman\\Desktop\\Homework2.1\\Homework2.1\\obj\\",
+      "projectPath": "C:\\Users\\Onika\\OneDrive\\Рабочий стол\\ILUHA_Э\\Email\\Homework2.1\\Homework2.1.csproj",
+      "packagesPath": "C:\\Users\\Onika\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Onika\\OneDrive\\Рабочий стол\\ILUHA_Э\\Email\\Homework2.1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Kikaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Onika\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -48,10 +44,21 @@
     "frameworks": {
       "netcoreapp3.0": {
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

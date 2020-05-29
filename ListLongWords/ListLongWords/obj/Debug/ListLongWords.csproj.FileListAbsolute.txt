@@ -1,0 +1,6 @@
+E:\Рабочий стол\На продажу\ListLongWords\ListLongWords\bin\Debug\ListLongWords.exe.config
+E:\Рабочий стол\На продажу\ListLongWords\ListLongWords\bin\Debug\ListLongWords.exe
+E:\Рабочий стол\На продажу\ListLongWords\ListLongWords\bin\Debug\ListLongWords.pdb
+E:\Рабочий стол\На продажу\ListLongWords\ListLongWords\obj\Debug\ListLongWords.csprojAssemblyReference.cache
+E:\Рабочий стол\На продажу\ListLongWords\ListLongWords\obj\Debug\ListLongWords.exe
+E:\Рабочий стол\На продажу\ListLongWords\ListLongWords\obj\Debug\ListLongWords.pdb

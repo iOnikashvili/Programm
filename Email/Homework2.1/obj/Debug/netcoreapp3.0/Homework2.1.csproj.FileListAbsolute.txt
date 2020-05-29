@@ -9,3 +9,5 @@ C:\Users\Kikaman\source\repos\Homework2.1\Homework2.1\obj\Debug\netcoreapp3.0\Ho
 C:\Users\Kikaman\source\repos\Homework2.1\Homework2.1\obj\Debug\netcoreapp3.0\Homework2.1.AssemblyInfo.cs
 C:\Users\Kikaman\source\repos\Homework2.1\Homework2.1\obj\Debug\netcoreapp3.0\Homework2.1.dll
 C:\Users\Kikaman\source\repos\Homework2.1\Homework2.1\obj\Debug\netcoreapp3.0\Homework2.1.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Email\Homework2.1\obj\Debug\netcoreapp3.0\Homework2.1.dll
+C:\Users\Onika\OneDrive\Рабочий стол\ILUHA_Э\Email\Homework2.1\obj\Debug\netcoreapp3.0\Homework2.1.pdb

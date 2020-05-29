@@ -1,0 +1,12 @@
+E:\Рабочий стол\На продажу\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe.config
+E:\Рабочий стол\На продажу\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe
+E:\Рабочий стол\На продажу\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.pdb
+E:\Рабочий стол\На продажу\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.csprojAssemblyReference.cache
+E:\Рабочий стол\На продажу\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.exe
+E:\Рабочий стол\На продажу\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe.config
+C:\Users\Onika\OneDrive\Рабочий стол\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe
+C:\Users\Onika\OneDrive\Рабочий стол\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.csprojAssemblyReference.cache
+C:\Users\Onika\OneDrive\Рабочий стол\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.exe
+C:\Users\Onika\OneDrive\Рабочий стол\ReversePolishNotation\ReversePolishNotation\obj\Debug\ReversePolishNotation.pdb
