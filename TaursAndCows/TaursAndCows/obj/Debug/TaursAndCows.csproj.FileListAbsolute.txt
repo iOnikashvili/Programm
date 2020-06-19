@@ -1,0 +1,28 @@
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.exe
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.pdb
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.Form1.resources
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.exe
+c:\users\alex\documents\visual studio 2012\Projects\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.pdb
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.exe.config
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.exe
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.pdb
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.csprojAssemblyReference.cache
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.Form1.resources
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.Properties.Resources.resources
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.csproj.GenerateResource.cache
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.exe
+C:\Users\Kikaman\Downloads\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.exe.config
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.exe
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\bin\Debug\TaursAndCows.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.csprojAssemblyReference.cache
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.Form1.resources
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.Properties.Resources.resources
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.csproj.GenerateResource.cache
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.exe
+C:\Users\Onika\OneDrive\Рабочий стол\TaursAndCows\TaursAndCows\obj\Debug\TaursAndCows.pdb
