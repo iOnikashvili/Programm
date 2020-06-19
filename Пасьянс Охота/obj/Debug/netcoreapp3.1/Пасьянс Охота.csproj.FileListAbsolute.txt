@@ -1,0 +1,41 @@
+C:\Users\kolos\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.exe
+C:\Users\kolos\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.deps.json
+C:\Users\kolos\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.runtimeconfig.json
+C:\Users\kolos\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.runtimeconfig.dev.json
+C:\Users\kolos\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.dll
+C:\Users\kolos\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.pdb
+C:\Users\kolos\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.csprojAssemblyReference.cache
+C:\Users\kolos\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.csproj.CoreCompileInputs.cache
+C:\Users\kolos\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.AssemblyInfoInputs.cache
+C:\Users\kolos\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.AssemblyInfo.cs
+C:\Users\kolos\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.dll
+C:\Users\kolos\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.pdb
+C:\Users\kolos\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.genruntimeconfig.cache
+C:\Users\Kikaman\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.exe
+C:\Users\Kikaman\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.deps.json
+C:\Users\Kikaman\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.runtimeconfig.json
+C:\Users\Kikaman\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.runtimeconfig.dev.json
+C:\Users\Kikaman\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.dll
+C:\Users\Kikaman\Desktop\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.pdb
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.csprojAssemblyReference.cache
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс_Охота.Form1.resources
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.csproj.GenerateResource.cache
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.AssemblyInfoInputs.cache
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.AssemblyInfo.cs
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.dll
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.pdb
+C:\Users\Kikaman\Desktop\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.genruntimeconfig.cache
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.exe
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.deps.json
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.runtimeconfig.json
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.runtimeconfig.dev.json
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.dll
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\bin\Debug\netcoreapp3.1\Пасьянс Охота.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.csprojAssemblyReference.cache
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс_Охота.Form1.resources
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.csproj.GenerateResource.cache
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.AssemblyInfoInputs.cache
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.AssemblyInfo.cs
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.dll
+C:\Users\Onika\OneDrive\Рабочий стол\Пасьянс Охота\obj\Debug\netcoreapp3.1\Пасьянс Охота.pdb
